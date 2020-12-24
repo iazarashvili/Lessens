@@ -25,6 +25,7 @@ namespace AutoProperties
 
             Console.WriteLine("Name : {0}, Book: {1}", author1.Name, author1.Book);
             Console.WriteLine("Name : {0}, Book: {1}", author2.Name, author2.Book);
+            Console.WriteLine("Name");
         }
     }
 }
